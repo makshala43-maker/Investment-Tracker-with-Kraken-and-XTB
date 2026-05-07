@@ -1,0 +1,4 @@
+requests
+websocket-client
+influxdb-client
+python-dotenv

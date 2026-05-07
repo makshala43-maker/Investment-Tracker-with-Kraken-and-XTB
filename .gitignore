@@ -1,0 +1,5 @@
+.env
+manual_assets.json
+__pycache__/
+*.pyc
+.docker/
