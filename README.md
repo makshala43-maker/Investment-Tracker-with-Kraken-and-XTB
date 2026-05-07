@@ -2,7 +2,7 @@
 
 An automated, real-time investment portfolio monitoring system. It combines live cryptocurrency data from the Kraken exchange with manually entered assets (e.g., stocks/ETFs from XTB) and visualizes them on an interactive dashboard.
 
-![Grafana Dashboard](portfolio_chart.png)
+![Grafana Dashboard](Portfolio_chart.png)
 *(Note: Ensure your screenshot is named portfolio_chart.png and placed in the root directory)*
 
 ## Key Features
